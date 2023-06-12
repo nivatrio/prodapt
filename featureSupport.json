@@ -1,5 +1,6 @@
 {
   "pins": [17,16],
+  "ledpins":21,
   "customername":"prodapt",
   "ftmodbus": "y",
   "ftjson": "n",
