@@ -1,6 +1,7 @@
 {
       "name": "prodapt",
       "deviceId": 1,
-      "deviceType": "solar"
+      "deviceType": "solar",
+        "debug": "y"
 }
 
